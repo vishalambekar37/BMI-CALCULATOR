@@ -1,18 +1,23 @@
-# bmi
+# Simple-Calculator
 
-A new Flutter project.
+A simple CAlculator for general purposes 
 
-## Getting Started
+## Why use it?
 
-This project is a starting point for a Flutter application.
+It is useful for simple calculations.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+* Add
+* Multiply
+* Subtract
+* Divide
+* Modulo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Built With
+* Flutter
+* Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# BMI-CALCULATOR" 
-"# BMI-CALCULATOR" 
+## Responsive view
+
+![bmi ss 1](https://user-images.githubusercontent.com/127341095/230157977-63f3f13e-be4d-407e-8197-ad19b767d6cd.jpg)
+![bmi ss 2](https://user-images.githubusercontent.com/127341095/230158121-95930a5b-b9e1-4712-a1ba-c4be24d73530.jpg)
