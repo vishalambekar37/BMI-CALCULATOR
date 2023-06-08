@@ -1,17 +1,10 @@
 # Simple-Calculator
 
-A simple CAlculator for general purposes 
+A simple BMI CAlculator for general purposes 
 
 ## Why use it?
 
-It is useful for simple calculations.
-
-## Features
-* Add
-* Multiply
-* Subtract
-* Divide
-* Modulo
+It is useful for simple calculate the BMI.
 
 ## Built With
 * Flutter
